@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 
-I'm Banafsheh Bakhtiari Ramezani 
+I'm Banafsheh 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python and improve my knowledge in programming
 - 📫 How to reach me: Banafshe.bramezani@gmail.com
